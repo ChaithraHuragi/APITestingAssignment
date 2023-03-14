@@ -1,0 +1,14 @@
+com\test\helpers\UserServiceHelpers.class
+com\test\tests\DeleteDataResponse.class
+com\test\utils\utilsTest.class
+com\test\tests\EndToEndAPI.class
+com\test\constants\EndPoints.class
+com\test\models\LoginDataPojo.class
+com\test\tests\CreateDataResponse.class
+com\test\helpers\ReusableMethods.class
+com\test\tests\Data.class
+com\test\tests\Datum.class
+com\test\models\UpdateDataPojo.class
+com\test\tests\UserDataResponsePojo.class
+com\test\constants\SourcePath.class
+com\test\models\AddDataPojo.class
